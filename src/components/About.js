@@ -8,7 +8,7 @@ function About()
     return(
         <div className="max-w-4xl mt-20 mx-auto">
             <p className="text-2xl text-black md:text-4xl font-bold text-center">
-                Hey 🖐
+                Halo 🖐
             </p>
             <p className="text-base sm:text-xl text-center text-gray-600 leading-relaxed mt-4">
             Hi, I'm Rifki Gema Fauzi, I'm a front end developer. And I like this method, it makes me grow and I'm still in the 7th semester. This is my portfolio while I was in the IT world and currently I'm focusing on discussing the program I'm working on, namely for fort end developers.😄
